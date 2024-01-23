@@ -1,0 +1,63 @@
+[
+    {
+        "id": "Model",
+        "type": "text",
+        "label": "Model",
+        "name": "model",
+        "value": "yes"
+    },
+    {
+        "id": "Location",
+        "type": "text",
+        "label": "Location",
+        "name": "location"
+    },
+    {
+        "id": "Color",
+        "type": "text",
+        "label": "Color",
+        "name": "color"
+    },
+    {
+        "id": "No of Owners",
+        "type": "text",
+        "label": "No of Owners",
+        "name": "owners"
+    },
+    {
+        "id": "Year of Manufacture",
+        "type": "text",
+        "label": "Year of Manufacture",
+        "name": "manufactureYear"
+    },
+    {
+        "id": "Transmission",
+        "type": "text",
+        "label": "Transmission",
+        "name": "transmission"
+    },
+    {
+        "id": "Insurance Valid upto",
+        "type": "text",
+        "label": "Insurance Valid upto",
+        "name": "insurance"
+    },
+    {
+        "id": "External Fitments",
+        "type": "text",
+        "label": "External Fitments",
+        "name": "externalFitments"
+    },
+    {
+        "id": "Kms",
+        "type": "text",
+        "label": "Kms",
+        "name": "kms"
+    },
+    {
+        "id": "Photo",
+        "type": "file",
+        "label": "Photo",
+        "name": "photo"
+    }
+]

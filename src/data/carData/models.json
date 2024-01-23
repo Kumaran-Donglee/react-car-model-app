@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "modelName": "Maruthi Suzuki",
+        "imageUrl": "../../assets/images/Maruthi-Logo.png"
+    },
+    {
+        "id": 2,
+        "modelName": "Hyundai",
+        "imageUrl": "../../assets/images/Hyundai-Logo.png"
+    },
+    {
+        "id": 3,
+        "modelName": "Renault",
+        "imageUrl": "../../assets/images/Renault-Logo.png"
+    },
+    {
+        "id": 4,
+        "modelName": "Honda",
+        "imageUrl": "../../assets/images/Honda-Logo.png"
+    },
+    {
+        "id": 5,
+        "modelName": "Tata",
+        "imageUrl": "../../assets/images/Tata-Logo.png"
+    },
+    {
+        "id": 6,
+        "modelName": "Ford",
+        "imageUrl": "../../assets/images/Ford-Logo.png"
+    },
+    {
+        "id": 7,
+        "modelName": "Volkswagen",
+        "imageUrl": "../../assets/images/Volkswagen-Logo.png"
+    },
+    {
+        "id": 8,
+        "modelName": "Mahindra",
+        "imageUrl": "../../assets/images/Mahindra-Logo.png"
+    },
+    {
+        "id": 9,
+        "modelName": "Toyota",
+        "imageUrl": "../../assets/images/Toyota-Logo.png"
+    },
+    {
+        "id": 10,
+        "modelName": "BMW",
+        "imageUrl": "../../assets/images/BMW-Logo.png"
+    },
+    {
+        "id": 11,
+        "modelName": "Mercedes",
+        "imageUrl": "../../assets/images/Mercedes-Logo.png"
+    },
+    {
+        "id": 12,
+        "modelName": "Volvo",
+        "imageUrl": "../../assets/images/Volvo-Logo.jpg"
+    }
+]
